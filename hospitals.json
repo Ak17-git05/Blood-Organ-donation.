@@ -1,0 +1,12 @@
+[
+  { "_id": "H001", "name": "Apollo Hospitals", "city": "Chennai", "contact": { "phone": "044-24567890", "email": "contact@apollo.com" } },
+  { "_id": "H002", "name": "Fortis Healthcare", "city": "Bangalore", "contact": { "phone": "080-23456789", "email": "info@fortis.com" } },
+  { "_id": "H003", "name": "Care Hospitals", "city": "Hyderabad", "contact": { "phone": "040-22334455", "email": "support@carehospitals.com" } },
+  { "_id": "H004", "name": "Aster Medcity", "city": "Kochi", "contact": { "phone": "0484-6789123", "email": "contact@astermedcity.com" } },
+  { "_id": "H005", "name": "Manipal Hospitals", "city": "Pune", "contact": { "phone": "020-67890123", "email": "support@manipal.com" } },
+  { "_id": "H006", "name": "Global Hospitals", "city": "Mumbai", "contact": { "phone": "022-23456789", "email": "info@globalhospitals.com" } },
+  { "_id": "H007", "name": "MIOT International", "city": "Chennai", "contact": { "phone": "044-22443355", "email": "contact@miotinternational.com" } },
+  { "_id": "H008", "name": "KIMS Hospitals", "city": "Trivandrum", "contact": { "phone": "0471-2233445", "email": "info@kimshospitals.com" } },
+  { "_id": "H009", "name": "Columbia Asia", "city": "Bangalore", "contact": { "phone": "080-22334455", "email": "contact@columbiaasia.com" } },
+  { "_id": "H010", "name": "SIMS Hospital", "city": "Chennai", "contact": { "phone": "044-22335544", "email": "info@simshospitals.com" } }
+]

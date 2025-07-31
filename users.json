@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "U001",
+    "name": "Arun Kumar",
+    "age": 28,
+    "gender": "Male",
+    "bloodType": "A+",
+    "role": "donor",
+    "city": "Chennai",
+    "contact": { "phone": "9876543210", "email": "arun.kumar@example.com" }
+  },
+  {
+    "_id": "U002",
+    "name": "Priya Sharma",
+    "age": 34,
+    "gender": "Female",
+    "bloodType": "O+",
+    "role": "recipient",
+    "city": "Bangalore",
+    "contact": { "phone": "9123456780", "email": "priya.sharma@example.com" }
+  },
+  {
+    "_id": "U003",
+    "name": "Manoj Reddy",
+    "age": 45,
+    "gender": "Male",
+    "bloodType": "B-",
+    "role": "donor",
+    "city": "Hyderabad",
+    "contact": { "phone": "9784561230", "email": "manoj.reddy@example.com" }
+  },
+  {
+    "_id": "U004",
+    "name": "Divya Iyer",
+    "age": 26,
+    "gender": "Female",
+    "bloodType": "AB+",
+    "role": "donor",
+    "city": "Chennai",
+    "contact": { "phone": "9004561230", "email": "divya.iyer@example.com" }
+  },
+  {
+    "_id": "U005",
+    "name": "Rahul Singh",
+    "age": 39,
+    "gender": "Male",
+    "bloodType": "O-",
+    "role": "recipient",
+    "city": "Pune",
+    "contact": { "phone": "9501237890", "email": "rahul.singh@example.com" }
+  },
+  {
+    "_id": "U006",
+    "name": "Anjali Nair",
+    "age": 30,
+    "gender": "Female",
+    "bloodType": "B+",
+    "role": "donor",
+    "city": "Kochi",
+    "contact": { "phone": "9812345670", "email": "anjali.nair@example.com" }
+  },
+  {
+    "_id": "U007",
+    "name": "Karthik Raj",
+    "age": 41,
+    "gender": "Male",
+    "bloodType": "A-",
+    "role": "donor",
+    "city": "Coimbatore",
+    "contact": { "phone": "9898765432", "email": "karthik.raj@example.com" }
+  },
+  {
+    "_id": "U008",
+    "name": "Sneha Patil",
+    "age": 27,
+    "gender": "Female",
+    "bloodType": "O+",
+    "role": "recipient",
+    "city": "Mumbai",
+    "contact": { "phone": "9874503210", "email": "sneha.patil@example.com" }
+  },
+  {
+    "_id": "U009",
+    "name": "Vikram Desai",
+    "age": 36,
+    "gender": "Male",
+    "bloodType": "AB-",
+    "role": "donor",
+    "city": "Ahmedabad",
+    "contact": { "phone": "9912345678", "email": "vikram.desai@example.com" }
+  },
+  {
+    "_id": "U010",
+    "name": "Meera Joseph",
+    "age": 32,
+    "gender": "Female",
+    "bloodType": "B+",
+    "role": "recipient",
+    "city": "Chennai",
+    "contact": { "phone": "9789654321", "email": "meera.joseph@example.com" }
+  }
+]
